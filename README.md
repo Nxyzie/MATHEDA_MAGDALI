@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikki Grace D. Magdali</h1>
+<h1 align="center">Hi 👋, I'm Nemethace</h1>
 <h3 align="center">A passionate about traveling into the world of programing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemethace&label=Profile%20views&color=0e75b6&style=flat" alt="nemethace" /> </p>
